@@ -1,0 +1,21 @@
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.text{
+    display: flex;
+}
+.head1{
+    padding-top: 20px;
+}
+.banner{
+    height:100vh;
+    width: 100wh;
+    
+    background-image: url(template_photo_32.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid rgb(239, 237, 237);
+}
